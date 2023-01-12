@@ -20,7 +20,10 @@
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/52236473/212129235-a6321b49-1293-4510-a238-7d9f27549906.png" alt="countdown-timer" /></td>
+  </tr>
 </table>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumit-sharma-02/countdown-timer)
 
 ## Quick Start
 ```shell
